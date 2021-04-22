@@ -1,2 +1,1 @@
-print("Hello")
-print("Like this")
+print("nice")
